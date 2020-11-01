@@ -1,2 +1,2 @@
-# SQL-Practice
-Some SQL codes
+# SQL Practice
+### This repo has some codes in PostgreSQ
